@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "240380489473",
+    "project_id": "peer-to-peer-elearning",
+    "storage_bucket": "peer-to-peer-elearning.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:240380489473:android:53dad9e0e9652a8796f500",
+        "android_client_info": {
+          "package_name": "com.example.peer_to_peer_e_learning_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCecjvzP_gskJG45hwIB70CwwPRMeN22k8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
